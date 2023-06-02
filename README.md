@@ -1,5 +1,6 @@
 # Vector-Calculator
 A program that solves a vector based on its given force, direction and angle.
+<br>
 Instuctions for Usage:
 1. Run the program through CMD.
 2. Input Valid and Realistic Values for the Inputs 
